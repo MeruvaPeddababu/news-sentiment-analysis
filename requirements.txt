@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+textblob
+gtts
+deep-translator
+streamlit
+flask
+uvicorn
